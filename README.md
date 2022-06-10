@@ -1,1 +1,1 @@
-# ets-progjar-d
+# progjar-d
